@@ -2,6 +2,8 @@
 
 ![Παρουσίαση Εφαρμογής](demo.gif)
 
+Website Description:
+
 The website concerns the presentation of a local honey company 'Melira Honey - Premium Quality Greek Honey', which is active in the field of production and delivery of honey products. 
 
 A wireframe and a mockup model are presented, focusing on how the development of the company's website will be ensured by providing a modern display environment. 
