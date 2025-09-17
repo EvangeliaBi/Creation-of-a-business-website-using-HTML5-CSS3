@@ -6,4 +6,4 @@ The digital presence of this local company consists of the main pages (Home, Con
 
 ## Demo
 
-![Παρουσίαση Εφαρμογής](main/demo.gif)
+![Παρουσίαση Εφαρμογής](demo.gif)
