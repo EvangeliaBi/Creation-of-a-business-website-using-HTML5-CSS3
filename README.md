@@ -4,3 +4,6 @@ A wireframe and a mockup model are presented, focusing on how the development of
 
 The digital presence of this local company consists of the main pages (Home, Contact, and About Us) using html and css technologies, ensuring responsiveness on mobile devices and laptops.
 
+## Demo
+
+![Παρουσίαση Εφαρμογής](main/demo.gif)
